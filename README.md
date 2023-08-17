@@ -12,6 +12,7 @@ My purpose for this lab is to learn more about Analyzing Network Traffic and Sec
 This lab consists of virtual machines created within the Azure Cloud:
 
   ~ **Ubuntu** ~ This Windows machine will have WireShark installed onto it.
+  ~ **WireShark** ~ 
 
 	
 # Network Design
@@ -30,4 +31,4 @@ This lab consists of virtual machines created within the Azure Cloud:
 
   # Lab Conclusion
 
-  Credit: This lab was created by Coursera, I followed the steps used in the course to create and replicate this lab. Link - https://www.coursera.org/projects/wireshark-for-beginners-capture-packets#outcomes
+  Credit: This lab was provided by Coursera, I followed the steps used in the course to create and replicate this lab. Link - https://www.coursera.org/projects/wireshark-for-beginners-capture-packets#outcomes
