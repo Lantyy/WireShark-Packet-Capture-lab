@@ -1,6 +1,7 @@
 # Azure-Sentinel-lab
 
-https://blog.invgate.com/hubfs/what-is-wireshark.jpg
+![Wireshark Logo](https://github.com/Lantyy/WireShark-Packet-Capture-lab/assets/122828853/ffe14e63-5e78-428c-b14f-0f92237f214f)
+
 
 # This Project
 This is a instructional step by step process to using the packet capture tool **WireShark** for defensive security and analyzing network traffic.
