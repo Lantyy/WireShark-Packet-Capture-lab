@@ -19,23 +19,23 @@ This lab consists of virtual machines created within the Azure Cloud:
 
 
 # Lab Creation Steps
-Install and set up Wireshark on Linux.
+Installed and set up Wireshark on Linux.
 
 
 
-Capture and save packets on a detected network using Wireshark.
+Captured and saved packets on a detected network using Wireshark.
 
 
 
-Use a display filter to observe certain packet protocols.
+Used a display filter to observe certain packet protocols.
 
 
 
-Employ a display filter to detect a certain IP address in a capture.
+Employed a display filter to detect a certain IP address in a capture.
 
 
 
-Use a conditional filter to locate certain packets in a capture.
+Used a conditional filter to locate certain packets in a capture.
 
 
 
