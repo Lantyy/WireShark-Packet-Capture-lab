@@ -47,7 +47,7 @@ Used a conditional filter to locate certain packets in the capture.
 
 
 # Lab Thoughts & Takeaways
-In creating and deploying this lab I learned that Wireshark is a very useful tool. Capturing, saving and filtering packets can be very useful in analyzing network traffic so appropriate action can be taken if needed in a network security monitoring situation. 
+In creating and deploying this lab I learned that Wireshark is an advantageous tool. Capturing, saving and filtering packets can be very helpful in analyzing network traffic so appropriate action can be taken if needed in a network security monitoring situation. 
 
 Credit: This lab was provided by Coursera, I followed the steps used in the course to create and replicate this lab. 
   
