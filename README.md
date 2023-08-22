@@ -26,7 +26,7 @@ Captured and saved packets on a detected interface using Wireshark.
 
 Used a display filter to observe a certain packet protocol.
 
-~ Filtered for only packets with 'TCP port 80'; (tcp.port == 80)
+~ Filtered for only packets with 'TCP port 80'; tcp.port == 80
 
 ![Screenshot 2023-08-21 (3)](https://github.com/Lantyy/WireShark-Packet-Capture-lab/assets/122828853/4e57c032-99bd-4106-ae49-3bedbd3e62f9)
 
