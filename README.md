@@ -31,14 +31,14 @@ Used a display filter to observe a certain packet protocol.
 ![Screenshot 2023-08-21 (3)](https://github.com/Lantyy/WireShark-Packet-Capture-lab/assets/122828853/4e57c032-99bd-4106-ae49-3bedbd3e62f9)
 
 
-Employed a display filter to detect a certain IP address in a capture.
+Employed a display filter to detect a certain IP address in the capture.
 
 ~ Filtered for any IP address that is '8.43.85.97'; ip.addr == 8.43.85.97
 
 ![Screenshot 2023-08-21 (4)](https://github.com/Lantyy/WireShark-Packet-Capture-lab/assets/122828853/4ea62707-47f8-4021-b550-6fbc8c945d8b)
 
 
-Used a conditional filter to locate certain packets in a capture.
+Used a conditional filter to locate certain packets in the capture.
 
 ~ Filtered for any IP address but '8.43.85.97' and include all other packets; !(ip.addr == 8.43.85.97) and (tcp.port == 443 or tcp.port == 80)
 
